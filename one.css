@@ -231,7 +231,7 @@ body{
 /* 5 */
   
 .landing{
-   background-image: url(../image/landing.webp);
+   background-image: url(..//one/landing.webp);
    background-size: cover;
    /* نقصنا مساحة الهيدر */
    height: calc(100vh - 64px);
